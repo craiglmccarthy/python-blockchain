@@ -1,4 +1,4 @@
-A simple Blockchain in Python that I built following Daniel van Flymen's (https://github.com/dvf) excellent medium [article](https://medium.com/@vanflymen/learn-blockchains-by-building-one-117428612f46).
+A simple Blockchain in Python that I built by following Daniel van Flymen's (https://github.com/dvf) excellent medium [article](https://medium.com/@vanflymen/learn-blockchains-by-building-one-117428612f46).
 
 ### Some basic command-line examples
 
