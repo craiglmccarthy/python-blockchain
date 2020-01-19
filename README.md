@@ -5,19 +5,19 @@ A simple Blockchain in Python that I built following Daniel van Flymen's (https:
 - Start node with default port
 
 ```
-./venv/bin/python3.8 blockchain-added-port-params.py
+./venv/bin/python3.8 blockchain_port_params.py
 ```
 
 - Start node with port 5000
 
 ```
-./venv/bin/python3.8 blockchain-added-port-params.py -p 5000
+./venv/bin/python3.8 blockchain_port_params.py -p 5000
 ```
 
 - Start node with port 5001
 
 ```
-./venv/bin/python3.8 blockchain-added-port-params.py -p 5001
+./venv/bin/python3.8 blockchain_port_params.py -p 5001
 ```
 
 ### API access examples via [HTTPie](https://github.com/jakubroztocil/httpie)
